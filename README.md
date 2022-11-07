@@ -9,6 +9,7 @@ Currently seeking for opportunity as a Software Tester
 ## TOOLS
 * Jira
 * TestLink
+* POSTMAN basics
 * GitHub
 ## TECH SKIILS
 * Software testing
@@ -17,7 +18,7 @@ Currently seeking for opportunity as a Software Tester
 * SQL
 * SCRUM
 * DEV TOOLS
-* POSTMAN basics
+* REST API testing
 ## CERTIFICATES
 Szkolenie Indywidualne tester manualny 06.11.2022
 ## COURSES
