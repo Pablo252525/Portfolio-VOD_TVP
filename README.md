@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## ABOUT ME
-IT graduate with 10 years working experience in the Medical device manufacturing industry. A proven
+IT graduate with over 10 years working experience in the Medical device manufacturing industry. A proven
 working knowledge of GMP and FDA standards. Focused and result orientated individual. Excellent
 analytical and problem solving skills. Confident in process design and fabrication, testing and validation.
 Committed and reliable in working to high standards, adaptable to ever changing processes and products.
