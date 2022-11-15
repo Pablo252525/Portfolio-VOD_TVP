@@ -35,7 +35,7 @@ Currently seeking for opportunity as a Software Tester
 * Testowanie oprogramowania
 ## MY TEST CASE EXAMPLES
 ## MY TEST CASE EXAMPLES FOR VOD TVP.pl
-* [Test cases](https://drive.google.com/file/d/1LIXuKCRPGsd3LJQY9hTajqImXaqEv3gs/view?usp=sharing)
+* [Test cases](https://drive.google.com/file/d/1d6j-lN34qGik6sou802RnllwtS6WcOo6/view?usp=share_link)
 ## MY BUGS
 ## MY BUGS FOR TVP VOD
 * [nazwa buga](https://docs.google.com/document/d/1TlidKJBuE2WTRNDIyXRfXGAq0m6JSybL/edit?usp=sharing&ouid=102089910623004200667&rtpof=true&sd=true)
