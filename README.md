@@ -7,8 +7,8 @@ Committed and reliable in working to high standards, adaptable to ever changing 
 Capable of working under own initiative and in a Team environment. 
 Currently seeking for opportunity as a Software Tester
 ## TOOLS
-* Jira
-* TestLink
+* JIRA
+* TESTLINK
 * POSTMAN basics
 * GitHub
 ## TECH SKIILS
@@ -20,9 +20,10 @@ Currently seeking for opportunity as a Software Tester
 * DEV TOOLS
 * REST API testing
 ## CERTIFICATES
-Szkolenie Indywidualne tester manualny 06.11.2022
+* Szkolenie Indywidualne tester manualny 06.11.2022
 ## COURSES
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
+* Praktyczny kurs testowania oprogramowania - kurs Udemy
 ## RECOMENDED BLOGS
 * wyszkolewas.com.pl
 * testerzy.pl
@@ -44,7 +45,7 @@ Szkolenie Indywidualne tester manualny 06.11.2022
 ## MY REPORT
 ## MY REPORT FOR VOD TVP.pl
 * [Report WORD](https://docs.google.com/document/d/1DKyRQCfJdHQjt3AZGZPM6p-JEiN_LYpJ/edit?usp=sharing&ouid=102089910623004200667&rtpof=true&sd=true)
-* [Report Excell](https://drive.google.com/file/d/1-PrAvobgWCeuynSjMWLvSrF_qIQ_TRL5/view?usp=sharing)
+* [Report Excell](https://docs.google.com/spreadsheets/d/1C4j0nAME4yoglpyxiqQY8Ne3Ku0ZP35Z/edit?usp=share_link&ouid=102089910623004200667&rtpof=true&sd=true)
 ## MY MIND MAP
 ## MY MIND MAP FOR VOD TVP.pl
 * [Mind map](https://drive.google.com/file/d/15xhTPIyRdYCd9nhm6K9VPM_1Dlld0vTR/view?usp=sharing)
